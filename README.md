@@ -3,15 +3,18 @@
   <h1>Hello! My name is Gin, and I'm currently a CS student.</h1>
 
   <!-- Your badges -->
-  <p>  
-    <a href="https://discordapp.com/users/694435388357476404">
-      <img src="https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/694435388357476404" alt="Discord">
-    </a>
+  <p>
     <a href="https://www.linkedin.com/in/gin-lu-88604/">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
     </a>
+    <a href="https://discordapp.com/users/694435388357476404">
+      <img src="https://img.shields.io/badge/-Discord-blueviolet?logo=discord&logoColor=white(https://discordapp.com/users/694435388357476404)" alt="Discord">
+    </a>
     <a href="mailto:ginlu7324@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="mailto:ginlu7324@outlook.com">
+      <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" alt="Outlook">
     </a>
   </p>
 </div>
@@ -31,9 +34,15 @@
   <p>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
     <br />
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
+    <br />
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
   </p>
   
   <hr />
